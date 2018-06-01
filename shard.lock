@@ -1,0 +1,6 @@
+version: 1.0
+shards:
+  coverage:
+    github: anykeyh/crystal-coverage
+    commit: af5246dde152b6e42352ce6e759bb07e9bed09ed
+

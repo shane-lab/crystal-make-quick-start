@@ -1,0 +1,16 @@
+name: make-quick-start
+version: 0.1.0
+
+authors:
+  - Bogaard, Shane S van den <info@shanelab.nl>
+
+description: |
+  A crystal quick-start with Make
+
+license: MIT
+
+# dependencies:
+
+development_dependencies:
+  coverage:
+    github: anykeyh/crystal-coverage
